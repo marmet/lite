@@ -1,0 +1,25 @@
+{
+  "values" : [ {
+    "serviceId" : "init"
+  }, {
+    "serviceId" : "maven-java"
+  }, {
+    "serviceId" : "java-base"
+  }, {
+    "serviceId" : "frontend-maven-plugin"
+  }, {
+    "serviceId" : "springboot"
+  }, {
+    "serviceId" : "aop-logging"
+  }, {
+    "serviceId" : "springboot-jwt"
+  }, {
+    "serviceId" : "postgresql"
+  }, {
+    "serviceId" : "springboot-actuator"
+  }, {
+    "serviceId" : "vue"
+  }, {
+    "serviceId" : "springboot-tomcat"
+  } ]
+}
